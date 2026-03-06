@@ -1,0 +1,6 @@
+Time resolution is 1 ps
+a=0 b=0 s=0 co=0
+a=0 b=1 s=1 co=0
+a=1 b=0 s=1 co=0
+a=1 b=1 s=0 co=1
+$finish called at time : 40 ns : File "C:/Users/pc/verilog-practice/verilog_design/half_adder/half_adder.srcs/sim_1/new/half_adder_tb.v" Line 33
