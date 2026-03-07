@@ -1,0 +1,10 @@
+Time resolution is 1 ps
+a=0 b=0 cin=0 d=0 bo=0
+a=0 b=0 cin=1 d=1 bo=1
+a=0 b=1 cin=0 d=1 bo=1
+a=0 b=1 cin=1 d=0 bo=1
+a=1 b=0 cin=0 d=1 bo=0
+a=1 b=0 cin=1 d=0 bo=0
+a=1 b=1 cin=0 d=0 bo=0
+a=1 b=1 cin=1 d=1 bo=1
+$finish called at time : 80 ns : File "C:/Users/pc/verilog-practice/verilog_design/full_subtractor/full_subtractor.srcs/sim_1/new/full_subtractor_tb.v" Line 37
