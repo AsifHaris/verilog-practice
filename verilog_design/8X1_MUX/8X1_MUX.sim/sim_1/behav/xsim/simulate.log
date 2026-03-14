@@ -1,0 +1,10 @@
+Time resolution is 1 ps
+s=000 i=11001010 y=0
+s=001 i=11001010 y=1
+s=010 i=11001010 y=0
+s=011 i=11001010 y=1
+s=100 i=11001010 y=0
+s=101 i=11001010 y=0
+s=110 i=11001010 y=1
+s=111 i=11001010 y=1
+$finish called at time : 80 ns : File "C:/Users/pc/verilog-practice/verilog_design/8X1_MUX/8X1_MUX.srcs/sim_1/new/mux_tb.v" Line 39

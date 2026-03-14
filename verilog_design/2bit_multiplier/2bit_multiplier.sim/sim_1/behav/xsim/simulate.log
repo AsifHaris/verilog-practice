@@ -1,0 +1,5 @@
+Time resolution is 1 ps
+a=00 b=01 p=0000
+a=10 b=11 p=0110
+a=11 b=11 p=1001
+$finish called at time : 30 ns : File "C:/Users/pc/verilog-practice/verilog_design/2bit_multiplier/2bit_multiplier.srcs/sim_1/new/multiplier_tb.v" Line 33
